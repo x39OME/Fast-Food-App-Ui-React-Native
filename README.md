@@ -2,13 +2,10 @@
 
 ## Preview Final Project
 
-#### Home Screen
-
-<img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
-
-#### Food Details Screen
-
-<img src="./preview/detailsscreen.jpg" style="width:350px;" alt="Details" />
+- Home Screen
+- Food Details Screen
+  
+<img src="./preview/fast-food-app.jpg" alt=" Home" />
 
 
 ## What did we use in the project?
