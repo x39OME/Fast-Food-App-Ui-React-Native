@@ -5,7 +5,7 @@
 - Home Screen
 - Food Details Screen
   
-<img src="./preview/fast-food-app.jpg" alt=" Home" />
+<img src="./preview/fast-food-app.png" alt=" app" />
 
 
 ## What did we use in the project?
